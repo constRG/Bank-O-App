@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bank_O</string>
+    <string name="bank_o_login_title">BANK-O LOGIN</string>
+    <string name="bank_o_registration_title">BANK-O REGISTRATION</string>
+    <string name="terms_and_conditions_title">BANK-O Terms and Conditions</string>
+    <string name="transactions_history_title">Transaction History</string>
+    <string name="your_profile_title">Your Profile Information</string>
+    <string name="send_money_title">Send Money</string>
+    <string name="contacts_title">Contacts</string>
+    <string name="messaging_title">Messaging</string>
+    <string name="savings_title">Savings</string>
+    <string name="add_contact_title">Add Contact</string>
+    <string name="add_savings_title">Add Saving</string>
+    <string name="cash_in_title">Cash In</string>
+    <string name="cash_out_title">Cash Out</string>
+    <string name="forgot_password_title">Forgot Password?</string>
+    <string name="cash_in_history_title">Cash In History</string>
+    <string name="cash_out_history_title">Cash Out History</string>
+    <string name="delete_contact_data_title">Delete contact data</string>
+    <string name="processing">Processing...</string>
+</resources>
